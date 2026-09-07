@@ -18,19 +18,19 @@
 export default {
     'interface': {
         'en': {
-            'ds18b20.name': 'DS18B20',
+            'ds18b20.name': 'DS18B20 Sensor',
             'ds18b20.description': 'Single bus digital temperature sensor based on DS18B20.'
         },
         'ru': {
-            'ds18b20.name': 'DS18B20',
+            'ds18b20.name': 'DS18B20 Sensor',
             'ds18b20.description': 'Single bus digital temperature sensor based on DS18B20.'
         },
         'zh-cn': {
-            'ds18b20.name': 'DS18B20',
+            'ds18b20.name': 'DS18B20 Sensor',
             'ds18b20.description': 'Single bus digital temperature sensor based on DS18B20.'
         },
         'zh-tw': {
-            'ds18b20.name': 'DS18B20',
+            'ds18b20.name': 'DS18B20 Sensor',
             'ds18b20.description': 'Single bus digital temperature sensor based on DS18B20.'
         }
     },
